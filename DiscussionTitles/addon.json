@@ -1,7 +1,8 @@
 {
     "name": "Discussion Titles",
-    "description": "Removed trailing periods from discussion names",
+    "description": "Remove trailing punctuation from discussion titles",
     "version": "1.0",
+    "license": "GNU GPLv3",
     "requiredTheme": false,
     "mobileFriendly": true,
     "registerPermissions": false,
