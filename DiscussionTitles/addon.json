@@ -1,0 +1,20 @@
+{
+    "name": "Discussion Titles",
+    "description": "Removed trailing periods from discussion names",
+    "version": "1.0",
+    "requiredTheme": false,
+    "mobileFriendly": true,
+    "registerPermissions": false,
+    "key": "discussiontitles",
+    "type": "addon",
+    "authors": [
+        {
+            "name": "James Ducker",
+            "email": "james.ducker@gmail.com",
+            "homepage": "https://github.com/jamesinc"
+        }
+    ],
+    "require": {
+        "vanilla": ">=2.2"
+    }
+}
